@@ -135,7 +135,7 @@ GameObject:
   - component: {fileID: 251071123}
   - component: {fileID: 251071122}
   - component: {fileID: 251071121}
-  m_Layer: 5
+  m_Layer: 4
   m_Name: Canvas
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -329,7 +329,7 @@ GameObject:
   - component: {fileID: 936644412}
   - component: {fileID: 936644414}
   - component: {fileID: 936644413}
-  m_Layer: 5
+  m_Layer: 4
   m_Name: Text (Legacy)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -354,7 +354,7 @@ RectTransform:
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
   m_AnchoredPosition: {x: -134, y: 77}
-  m_SizeDelta: {x: 160, y: 30}
+  m_SizeDelta: {x: 300, y: 30}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &936644413
 MonoBehaviour:
@@ -389,7 +389,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: New Text
+  m_Text: Hello Jeka
 --- !u!222 &936644414
 CanvasRenderer:
   m_ObjectHideFlags: 0
